@@ -2,7 +2,8 @@
 Софија Симонова, бр. на индекс 223305
 
 Control Flow Graph
-![223305_Sofija_Simonova](https://github.com/SofijaSimonova/SI_2024_lab2_223305/assets/159633263/ac27acdd-a529-4398-9506-5c88f4e863bb)
+![223305_Sofija_Simonova](https://github.com/SofijaSimonova/SI_2024_lab2_223305/assets/159633263/c61e273a-065a-4c2f-8357-9756b6bd03f0)
+
 
 
 Цикломатска комплексност
